@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yusuf
 
-<!--
-**yusuffsari/yusuffsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Management Information Systems student at Kadir Has University, Istanbul, graduating June 2027.
+I work where business processes, data and technology meet: ERP systems, SQL and data analysis.
 
-Here are some ideas to get you started:
+### Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Senior year, Management Information Systems @ Kadir Has University
+- Looking for a part-time IT, ERP or data internship (available Fridays and Monday afternoons)
+
+### Experience
+
+- **IT Intern**, Dunapack Packaging (Prinzhorn Group), Jul–Aug 2025: tested ERP modules, supported integrations, data validation on SQL Server
+
+### Skills
+
+SQL (SQL Server, MySQL) · Python · ERP · PHP · Next.js · Excel / Google Sheets · Huawei Cloud
+
+### Certificates
+
+- Huawei Cloud Developer (HCCDA – Tech Essentials)
+- 20 DataCamp courses: SQL and database design, Python for data science, data visualization, spreadsheets, cloud
+
+### Contact
+
+[yusufsari.me](https://yusufsari.me) · [LinkedIn](https://linkedin.com/in/yusuf-sari-) · yusuf@yusufsari.me
